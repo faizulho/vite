@@ -25,10 +25,10 @@
   resolved "https://registry.yarnpkg.com/@types/estree/-/estree-0.0.48.tgz#18dc8091b285df90db2f25aa7d906cfc394b7f74"
   integrity sha512-LfZwXoGUDo0C3me81HXgkBg5CTQYb6xzEl+fNmbO4JdRiSKQ8A0GD1OBBvKAIsbCUgoyAty7m99GqqMQe784ew==
 
-"@vitejs/plugin-vue@^1.2.4":
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.2.4.tgz#a7aa6e6a31c556a8b781de730316deeecf7f56f2"
-  integrity sha512-D/3H9plevPQGgQGwmV6eecvOnooLTecPR63HPffVVWPEhbfvmtYLWgznzs456NBb2DItiRTCIa1yWxvGqC+I8A==
+"@vitejs/plugin-vue@^1.8.1":
+  version "1.8.1"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.8.1.tgz#6cc2a8dfd04201e3c868c239091aaa89aa75f880"
+  integrity sha512-gktQGZ7qfaDdVJhT86fWSkyhP+bdoA81f5S2TQOL5Sbe5q7B36XfLGq8Q0BpHoqhPSflAMe6WwM1IecP1sChRw==
 
 "@vue/compiler-core@3.1.4":
   version "3.1.4"
